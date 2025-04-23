@@ -5,20 +5,20 @@ Hola! Este Projecto Te ayuda a instalar los mods fridaay night funkin usando la 
 #Instalacion
 Primero Entra a termux y instala wget usando este commado
 
-<pre> ```
+<pre>
 apt update
 apt upgrade -y 
 apt install wget -y
- ``` </pre>
+ `</pre>
 
  luego ejecuta este otro
 
- <pre> ```
+ <pre>
  wget urlnosubida
  tar xpf dat.bin
  cd fnftmp
  bash Install.sh
- ``` </pre>
+ </pre>
 
  luego renicia tu termux y usa fnf para abrir el gestor de mods
 
