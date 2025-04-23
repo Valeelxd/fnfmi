@@ -9,7 +9,7 @@ Primero Entra a termux y instala wget usando este commado
 apt update
 apt upgrade -y 
 apt install wget -y
- `</pre>
+ </pre>
 
  luego ejecuta este otro
 
