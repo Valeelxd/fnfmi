@@ -14,7 +14,7 @@ apt install wget -y
  luego ejecuta este otro
 
  <pre>
- wget urlnosubida
+ wget https://github.com/Valeelxd/fnfmi/releases/download/fnf/dat.bin
  tar xpf dat.bin
  cd fnftmp
  bash Install.sh
