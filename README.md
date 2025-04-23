@@ -2,7 +2,7 @@
 
 Hola! Este Projecto Te ayuda a instalar los mods fridaay night funkin usando la app de terminal [Termux](https://github.com/termux/termux-app)
 
-#Instalacion
+# Instalacion
 Primero Entra a termux y instala wget usando este commado
 
 <pre>
