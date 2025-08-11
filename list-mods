@@ -1,5 +1,9 @@
 
 1 - Premetitated Port
 Un Port Del Premetitated Par psych Engine 1.0.3 En Adelante
+
 02 - Modo Estupido
 Ejecuta El Instalador De Mods Cada Vez Que Abres Termux
+
+3 - Psych Engine 1.0.4
+El Engine Para Algunos Mods Requiere Termux-API Instalado
